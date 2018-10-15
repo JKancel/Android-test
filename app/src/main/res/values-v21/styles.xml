@@ -8,11 +8,7 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="AppBaseTheme" parent="android:Theme">
+    <style name="AppBaseTheme" parent="android:Theme.Material">
 
-    </style>
-
-    <style name="AppTheme2" parent="AppBaseTheme">
-        <item name="android:textColor">#0000a4</item>
     </style>
 </resources>
